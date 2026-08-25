@@ -1,4 +1,4 @@
-name: Cron Teste
+name: Cron_4_horas
 
 on:
   schedule:
