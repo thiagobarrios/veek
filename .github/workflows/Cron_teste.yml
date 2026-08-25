@@ -1,4 +1,4 @@
-name: Cron for Veek check-in
+name: Cron Teste
 
 on:
   schedule:
